@@ -1,0 +1,28 @@
+.contenedorProporciones {
+    max-width: 90%;
+    height: 200px;
+    background: #6BAB90;
+}
+
+.contenedorProporciones .h1 {
+    font-size: 1em;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.contenedorPixeles {
+    max-width: 960px;
+    height: 400px;
+    background: grey;
+}
+
+.contenedorPixeles .imgen {
+    position: absolute;
+    top: 3%;
+    right: 17%;
+    width: 40%;
+    height: 40%;
+    border-radius: 100%;
+    overflow: hidden;
+    max-width: 100%;
+}
